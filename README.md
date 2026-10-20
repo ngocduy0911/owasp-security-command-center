@@ -1,4 +1,4 @@
-# 🛡️ OWASP Security Command Center (Group 5)
+# 🛡️ OWASP Security Command Center (Group 17)
 
 > **Trung tâm Điều khiển & Kiểm thử Bảo mật Lỗ hổng Web Real-Time trên nền tảng Node.js Engine**
 
@@ -66,13 +66,12 @@ Dự án mô phỏng thực tế kịch bản khai thác lỗ hổng và cơ ch�
 
 ---
 
-## 👥 5. Thành viên Thực hiện (Nhóm 5)
+## 👥 5. Thành viên Thực hiện (Nhóm 17)
 
-* **Thành viên 1:** [Họ và tên] - *Trưởng nhóm / Backend Core Engine*
-* **Thành viên 2:** [Họ và tên] - *Security Tester / SQLi Module*
-* **Thành viên 3:** [Họ và tên] - *Security Tester / Reflected XSS Module*
-* **Thành viên 4:** [Họ và tên] - *Security Tester / IDOR Module*
-* **Thành viên 5:** [Họ và tên] - *Technical Reporter / UI & Docs Specialist*
+* **Thành viên 1:** Ngô Ngọc Duy - Backend Core Engine*
+* **Thành viên 2:** Nguyễn Văn Thành - SQLi Module*
+* **Thành viên 3:** Nguyễn Văn Tú - Reflected XSS Module*
+* **Thành viên 4:** Nguyễn Thế Dũng - IDOR Module*
 
 ---
 *Báo cáo Bài tập lớn Môn Bảo mật Ứng dụng & Hệ thống - 2026*
